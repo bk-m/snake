@@ -1,0 +1,25 @@
+#can {
+    padding: 0px;
+    margin: 0px;
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 800px;
+    height: 600px;
+    background-color: #515151;
+    position: absolute;
+}
+
+#score {
+    padding: 0px;
+    padding-left: 10px;
+    margin: 0px;
+    margin-top: 10px;
+    position: absolute;
+    left: 900px;
+    width: 200px;
+    height: 50px;
+    font-family: 'Open Sans', sans-serif;
+    color: red;
+    font-style: bold;
+    font-size: 26px;
+}
